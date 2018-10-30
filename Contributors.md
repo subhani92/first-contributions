@@ -156,6 +156,7 @@
 - [Kegjams](https://github.com/Kegjams)
 - [SS491]
 - [MYusuf](https://github.com/mohamadyusuf19)
+- [Fareed Subhani](https://github.com/subhani92)
 - [Steve-Worrell](https://github.com/Steve-Worrell)
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
